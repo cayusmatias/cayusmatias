@@ -2,25 +2,6 @@
 
 <h3>
   
-```python
-
-from __future__ import annotations
-from dataclasses import asdict, dataclass
-import json
-
-
-@dataclass
-class Contact:
-    mails: tuple[str, ] = ("cayusmatias@gmail.com", "cayusmatias@hotmail.com")
-
-    def jsonify(self) -> str:
-        return json.dumps(asdict(self), indent=4)
-
-
-contact = Contact()
-print(contact.jsonify())
-
-```
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=cayusmatias"/>
