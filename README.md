@@ -45,6 +45,10 @@
 - 🐦 [Twitter](https://twitter.com/cayusmatias)
 - 📝 [LinkedIn](https://www.linkedin.com/in/cayusmatias/)
 
+<h3>📞 Get in Touch</h3>
+
+📩 Feel free to reach out to me for collaboration opportunities or just to chat!
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=cayusmatias"/>
