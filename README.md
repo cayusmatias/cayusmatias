@@ -3,7 +3,7 @@
 🌏 I'm from Brazil.  
 👨‍💻 Currently working as a Data Analyst and Backend Developer.  
 📚 Learning about Machine Learning.  
-🎮 In my free time, I love to play Magic the Gathering.  
+🎮 In my free time, I love to play Magic the Gathering.
 
 <h3>🚀💻 Technologies & Tools</h3>
 
@@ -44,6 +44,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+```python
+# everyday
+def need_coffee(hours_coded):
+    if hours_coded > 4:
+        return "Definitely need coffee!"
+    return "Maybe just one more cup..."
+print(need_coffee(5))
+```
 
 <h3>🔗 Connect with Me</h3>
 
