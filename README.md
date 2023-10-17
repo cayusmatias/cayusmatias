@@ -15,6 +15,7 @@
 
 **Web Automation**  
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.x-green?style=for-the-badge&logo=python&logoColor=white)
 
 **Data Processing**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
