@@ -1,7 +1,7 @@
 <h2>Hi, I'm Cayus <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=790b7611z68szmiy1ppztlyfdv0xox9vm44np3nvkv12m5m0&rid=giphy.gif&ct=s" width="20"> a Python enthusiast</h2>
 
 🌏 I'm from Brazil.  
-👨‍💻 Currently working as a Backend Developer.  
+👨‍💻 Currently working as a Data Analyst and Backend Developer.  
 📚 Learning about Machine Learning.  
 🎮 In my free time, I love to play Magic the Gathering.  
 
