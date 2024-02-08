@@ -1,8 +1,6 @@
 <h2>Hi, I'm Cayus <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=790b7611z68szmiy1ppztlyfdv0xox9vm44np3nvkv12m5m0&rid=giphy.gif&ct=s" width="20"> a Python enthusiast</h2>
 
-🌏 I'm from Brazil.  
-👨‍💻 Currently working as a Data Analyst and Backend Developer.  
-📚 Learning about Machine Learning.  
+🌏 I'm from Brazil.    
 🎮 In my free time, I love to play Magic the Gathering.
 
 <h3>🚀💻 Technologies & Tools</h3>
@@ -56,8 +54,7 @@ print(need_coffee(5))
 
 <h3>🔗 Connect with Me</h3>
 
-- 🐦 [Twitter](https://twitter.com/cayusmatias)
-- 📝 [LinkedIn](https://www.linkedin.com/in/cayusmatias/)
+- 🐦 [Twitter](https://x.com/cayusmatias)
 
 <h3>📞 Get in Touch</h3>
 
