@@ -54,7 +54,7 @@ print(need_coffee(5))
 
 <h3>🔗 Connect with Me</h3>
 
-- 🐦 [Twitter](https://x.com/cayusmatias)
+- 🐦 [Twitter/X](https://x.com/cayusmatias)
 
 <h3>📞 Get in Touch</h3>
 
